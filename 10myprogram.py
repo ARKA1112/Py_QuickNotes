@@ -76,3 +76,4 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('--verbose', '-v', action='count', default=0)
     parser.parse_args(['-vvv'])
+
