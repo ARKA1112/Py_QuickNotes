@@ -1,0 +1,31 @@
+{
+    "workbench.colorCustomizations": {
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#840eec",
+        "statusBar.background": "#690bbc",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#840eec",
+        "statusBarItem.remoteBackground": "#690bbc",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#690bbc",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#690bbc99",
+        "titleBar.inactiveForeground": "#e7e7e799",
+        "activityBar.activeBackground": "#840eec",
+        "activityBar.background": "#840eec",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#3c2204",
+        "activityBarBadge.foreground": "#e7e7e7"
+    },
+    "peacock.color": "#690bbc",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}
